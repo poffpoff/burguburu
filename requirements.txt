@@ -1,0 +1,11 @@
+amqp==1.4.9
+anyjson==0.3.3
+billiard==3.3.0.23
+Django==1.9.4
+kombu==3.0.35
+Mako==1.0.4
+MarkupSafe==0.23
+psycopg2==2.6
+pytz==2016.3
+simplejson==3.8.2
+virtualenv==15.0.1
